@@ -9,7 +9,7 @@
   ],
   "scripts": {
 
-    "build": "tsc -p .",
+
     "doc": "typedoc",
     "lint": "eslint \"src/**/*.ts\"",
     "prepublish": "npm run build",
