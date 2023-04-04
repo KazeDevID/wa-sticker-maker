@@ -8,7 +8,7 @@
     "dist"
   ],
   "scripts": {
-    "prebuild": "rimraf dist",
+
     "build": "tsc -p .",
     "doc": "typedoc",
     "lint": "eslint \"src/**/*.ts\"",
