@@ -3,7 +3,7 @@ name: "🚀 publish"
 on:
     push:
         branches: 
-        - master
+        - Tos
 
 jobs:
     release:
